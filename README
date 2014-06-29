@@ -1,0 +1,2 @@
+This program modifies a file by adding an authentication code that depends
+on a password. It can later verify and remove that authentication code.
